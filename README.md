@@ -25,7 +25,9 @@
 </p>
  ⚙️ My Stats
 <p align="center">
-  <img src="https://i.ibb.co/2tM4FjR/dev-status-night.gif" alt="Animated developer at night" width="400"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=💫+Developer+by+day,+dreamer+by+night;🚀+Currently+building+something+awesome;🌙+Loving+the+quiet+hours+of+code;☕+Fueled+by+coffee+and+creativity" 
+    alt="Animated developer status" />
 </p>
 
 
