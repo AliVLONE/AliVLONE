@@ -1,7 +1,7 @@
 <h1 align="center">Frontend Developer | UI Enthusiast</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="350" />
+  <img src="https://i.pinimg.com/originals/72/8e/c1/728ec1c8114ad3beb1dc0947b0a46634.gif" />
 </p>
 
 ---
