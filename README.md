@@ -36,19 +36,15 @@
 ### 🌐 Follow Me
 <p align="center">
   <a href="https://t.me/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="45" height="45" />
+      <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="48" height="48" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45" style="border-radius:10px;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" />
-  </a>
+ <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" />
+  </a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" />
+    <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" />
   </a>
 </p>
 
