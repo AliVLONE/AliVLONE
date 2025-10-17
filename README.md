@@ -33,19 +33,14 @@
 
 ---
 
-### 🌐 Follow Me
-<p align="center">
-  <a href="https://t.me/yourusername" target="_blank">
-      <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="48" height="48" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/yourusername" target="_blank">
- <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" />
-  </a> 
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" />
-  </a>
+## 🌐 Follow Me On
+<p align="left">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://youtube.com/@yourusername"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
