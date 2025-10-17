@@ -36,7 +36,7 @@
 ## 🌐 Follow Me On
 <p align="left">
   <a href="https://github.com/AliVLONE"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/s.c.ottt?igsh=MWNpNjBjYzdjcGdwcA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="[https://instagram.com/s.c.ottt?igsh=MWNpNjBjYzdjcGdwcA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45" style="border-radius:10px;)"/></a>
   <a href="https://t.me/EndeavourVLON3"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
 
 </p>
