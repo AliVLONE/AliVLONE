@@ -35,13 +35,15 @@
 
 ## 🌐 Follow Me On
 <p align="left">
-  <a href="https://github.com/AliVLONE"> <img src="https://cdn.simpleicons.org/github/ffffff" width="48" height="48" style="transition: transform 0.2s ease, filter 0.2s ease;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='brightness(1.3)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)'" />
+  <a href="https://github.com/AliVLONE">   <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="48" height="48" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href=""/>  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" />
-  </a></a>
-  <a href="https://t.me/EndeavourVLON3"> <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="48" height="48" style="transition: transform 0.2s ease, filter 0.2s ease;" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='brightness(1.3)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)'" /></a>
-
+  </a>
+   &nbsp;&nbsp;&nbsp;</a>
+  <a href="https://t.me/EndeavourVLON3">  <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" />
+  </a>
+ &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
