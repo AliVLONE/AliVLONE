@@ -25,7 +25,7 @@
 </p>
  ⚙️ My Stats
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=🚀+Currently+working+on+a+cool+project;🌙+Coding+at+night;💡+Always+learning+new+things;☕+Fueled+by+coffee" alt="Typing SVG" />
+  <img src="https://i.ibb.co/2tM4FjR/dev-status-night.gif" alt="Animated developer at night" width="400"/>
 </p>
 
 
