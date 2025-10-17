@@ -15,7 +15,7 @@
 
 ## 🛠 Technologies I Use
 <p align="left">
-  <img src="[https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white](https://icon2.cleanpng.com/20180623/kwp/kisspng-web-development-html-software-development-software-modern-pattern-5b2e9b177ec089.4478529015297810155192.jpg)" />
+  <img src="" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
