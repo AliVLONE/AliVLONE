@@ -1,4 +1,4 @@
-<img width="1000" height="1000" alt="imgbin_4415bc6c0b62be7504b8265981aac347" src="https://github.com/user-attachments/assets/6d066e77-0c22-43a6-a0dd-481865e0bb18" /><h1 align="center">Frontend Developer | UI Enthusiast</h1>
+<h1 align="center">Frontend Developer | UI Enthusiast</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/a1/01/b4/a101b4cd58d9ae85a1a9f85f40e36e7b.gif" width="350" />
