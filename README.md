@@ -1,7 +1,7 @@
 <h1 align="center">Frontend Developer | UI Enthusiast</h1>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://i.pinimg.com/originals/a1/01/b4/a101b4cd58d9ae85a1a9f85f40e36e7b.gif)" width="350" />
+  <img src="https://i.pinimg.com/originals/a1/01/b4/a101b4cd58d9ae85a1a9f85f40e36e7b.gif" width="350" />
 </p>
 
 ---
