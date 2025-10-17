@@ -35,7 +35,8 @@
 
 ## 🌐 Follow Me On
 <p align="left">
-  <a href="https://github.com/AliVLONE">   <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="48" height="48" />
+  <a href="https://github.com/AliVLONE">    <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" />
+  </a>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href=""/>  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" />
