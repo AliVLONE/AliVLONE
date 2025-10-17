@@ -35,7 +35,7 @@
 
 ## 🌐 Follow Me On
 <p align="left">
-  <a href="https://github.com/yourusername">  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/yourusername">    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="130" onmouseover="this.style.transform='scale(1.1)'; this.style.transition='0.3s';" onmouseout="this.style.transform='scale(1)';"/></a>
   <a href="https://youtube.com/@yourusername"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white"/></a>
   <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
