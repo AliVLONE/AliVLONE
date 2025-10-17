@@ -36,8 +36,8 @@
 
 ## 🌐 Follow Me On
 <p align="left">
-  <a href="https://github.com/yourusername">   <img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://instagram.com/yourusername">  <img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://github.com/AliVLONE">   <img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://instagram.com/s.c.ottt?igsh=MWNpNjBjYzdjcGdwcA==">  <img src="https://skillicons.dev/icons?i=instagram" /></a>
  
  
 </p>
