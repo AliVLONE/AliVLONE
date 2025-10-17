@@ -44,6 +44,28 @@
 
 
 ---
+## 📫 Contact Me  
+
+<p align="center">
+  <a href="mailto:aliasgharoroujloo@gmail.com" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" alt="gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  Feel free to reach out for collaboration 
+  <br><br>
+  💌 <b>Email:</b> <a href="mailto:aliasgharoroujloo@gmail.com">aliasgharoroujloo@gmail.com</a>  
+  <br>
+  💬 <b>Telegram:</b> <a href="https://t.me/EndeavourVLON3">@EndeavourVLON3</a>   
+  <br>
+  📱 <b>WhatsApp:</b> +98 9918161433 
+</p>
+
+<p align="center">
+  <sub>Made by <b>AliVLONE</b></sub> 
+</p>
+
 
 <p align="center">
   <sub>✨ "we have technology..." ✨</sub>
