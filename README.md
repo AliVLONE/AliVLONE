@@ -26,8 +26,9 @@
  ⚙️ My Stats
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=💫+Developer+by+day,+dreamer+by+night;🚀+Currently+building+something+awesome;🌙+Loving+the+quiet+hours+of+code;☕+Fueled+by+coffee+and+creativity" 
-    alt="Animated developer status" />
+ <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
