@@ -25,9 +25,7 @@
 </p>
  ⚙️ My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=🚀+Currently+working+on+a+cool+project;🌙+Coding+at+night;💡+Always+learning+new+things;☕+Fueled+by+coffee" alt="Typing SVG" />
 </p>
 
 
