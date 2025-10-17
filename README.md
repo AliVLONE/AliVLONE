@@ -46,5 +46,5 @@
 ---
 
 <p align="center">
-  <sub>✨ "We have technology..." ✨</sub>
+  <sub>✨ "Code lover" ✨</sub>
 </p>
