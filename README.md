@@ -55,11 +55,11 @@
 <p align="center">
   Feel free to reach out for collaboration 
   <br><br>
-  💌 <b>Email:</b> <a href="mailto:aliasgharoroujloo@gmail.com">aliasgharoroujloo@gmail.com</a>  
+   <b>Email:</b> <a href="mailto:aliasgharoroujloo@gmail.com">aliasgharoroujloo@gmail.com</a>  
   <br>
-  💬 <b>Telegram:</b> <a href="https://t.me/EndeavourVLON3">@EndeavourVLON3</a>   
+   <b>Telegram:</b> <a href="https://t.me/EndeavourVLON3">@EndeavourVLON3</a>   
   <br>
-  📱 <b>WhatsApp:</b> +98 9918161433 
+   <b>WhatsApp:</b> +98 9918161433 
 </p>
 
 <p align="center">
@@ -68,5 +68,5 @@
 
 
 <p align="center">
-  <sub>✨ "we have technology..." ✨</sub>
+  <sub> "Code Lover" </sub>
 </p>
