@@ -68,5 +68,5 @@
 
 
 <p align="center">
-  <sub> "Code Lover" </sub>
+  <sub> Code Lover </sub>
 </p>
