@@ -27,7 +27,7 @@
 <p align="center">
   <img 
  <img src="https://github-readme-stats.vercel.app/api?username=AliVLONE&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliVLONE&theme=tokyonight" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=َمهؤ»[أٍ&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliVLONE&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
