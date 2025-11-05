@@ -28,8 +28,12 @@
   <img 
  <img src="https://github-readme-stats.vercel.app/api?username=AliVLONE&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="coding gif" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="400" alt="fire animation" />
 </p>
+
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliVLONE&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
